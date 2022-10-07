@@ -1,0 +1,15 @@
+C:\Users\mirzo\source\repos\Практика2\Практика2\bin\Debug\net6.0\Практика2.exe
+C:\Users\mirzo\source\repos\Практика2\Практика2\bin\Debug\net6.0\Практика2.deps.json
+C:\Users\mirzo\source\repos\Практика2\Практика2\bin\Debug\net6.0\Практика2.runtimeconfig.json
+C:\Users\mirzo\source\repos\Практика2\Практика2\bin\Debug\net6.0\Практика2.dll
+C:\Users\mirzo\source\repos\Практика2\Практика2\bin\Debug\net6.0\Практика2.pdb
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.csproj.AssemblyReference.cache
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.AssemblyInfoInputs.cache
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.AssemblyInfo.cs
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.csproj.CoreCompileInputs.cache
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.dll
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\refint\Практика2.dll
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.pdb
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\Практика2.genruntimeconfig.cache
+C:\Users\mirzo\source\repos\Практика2\Практика2\obj\Debug\net6.0\ref\Практика2.dll
